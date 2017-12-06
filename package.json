@@ -1,0 +1,14 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido no curso school of net",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Braga <fabio.pereirabraga@gmail.com>",
+  "dependencies": {
+    "console-log-hello-world": "^1.0."
+  },
+  "devDependencies": {}
+}
