@@ -8,7 +8,8 @@
   },
   "author": "Fabio Braga <fabio.pereirabraga@gmail.com>",
   "dependencies": {
-    "console-log-hello-world": "^1.0."
+    "console-log-hello-world": "^1.0.",
+    "websocket": "^1.0.25"
   },
   "devDependencies": {}
 }
